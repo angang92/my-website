@@ -4,4 +4,4 @@ This is a really awesome website!
 
 Editing on update-readme branch
 
-Updated locally
+Updated locally, then remotely
